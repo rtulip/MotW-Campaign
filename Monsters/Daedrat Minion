@@ -1,0 +1,22 @@
+Daedrat minion:
+
+	Description:
+		* dark black with matted fur
+		* Roughly 2 feet long not including tail
+		* Deep blue eyes
+
+	* Plague - trying to spread disease and stop the production of crops
+	
+	Health:
+		* 5
+
+	Attacks:
+		Bite - 2 harm
+		Claws - 1 harm
+		Tail swipe - 1 harm
+		
+	Powers:
+		Daedric Stare:
+			* Blue eyes pulse making the daedrat blurry 
+				* Increases the requirement to have a pass from 6-7
+

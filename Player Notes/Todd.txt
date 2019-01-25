@@ -1,0 +1,22 @@
+Todd (Nord)
+	Spellslinger
+	
+	Bases:
+		* Missle 
+		* Blast
+
+	Effects:
+		* Frost / Ice
+
+	Moves:
+		* Arcane Repetoir
+		* Forensic Divination
+		* Enchanted Clothing
+	
+	Backstory:
+		* Learned magic from a line of necromancers from the tower just outside Dagon Fel.
+		* Stole a daedric dagger from the necromancers as he left
+		* Wishes to stop the necromancers
+		* Travels around the world looking for artefacts and to improve his magic to try and best them
+		* Interested in the 6th house temples
+	 
