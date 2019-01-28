@@ -4,7 +4,7 @@
 	
 Vos is a small town of around 50 people on the North East side of Vvardenfell. It was saved by its distance from Red Mountain in addition to Telvanni Magic. Since the Calamity, the Telvanni government has disappeared, and the Temple has filled the void. Madres and his followers have been trying to keep the population orderly and spirits high. 
 
-Surronding Vos is the Telvanni fortress [Tel Vos](Tel \Vos.md) to the north east, the [Refugee Camp](Refugee Camp.md) to the south, and the [Docks](Docks.md) to the West. 
+Surronding Vos is the Telvanni fortress [Tel Vos](Tel_Vos.md) to the north east, the [Refugee Camp](Refugee Camp.md) to the south, and the [Docks](Docks.md) to the West. 
 
 ## Major Locations in Vos
 
